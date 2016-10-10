@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\coldpuppy\DoggieX\PolygonDrawable\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\coldpuppy\DoggieX\PolygonDrawable\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_22fe4973e1753a5fa380e2a143ec1e9da3f2fb23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\coldpuppy\DoggieX\PolygonDrawable\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\coldpuppy\DoggieX\PolygonDrawable\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_a6ad240823d39516775f563636604d438ecfd15b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\coldpuppy\DoggieX\PolygonDrawable\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\coldpuppy\DoggieX\PolygonDrawable\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_ba60aff68515b3aefc6b7c21011692dc18adeb39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\coldpuppy\DoggieX\PolygonDrawable\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\coldpuppy\DoggieX\PolygonDrawable\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_d45f7e68fb55b281d86f8f95f56b35a85a50ebe9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\coldpuppy\DoggieX\PolygonDrawable\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\coldpuppy\DoggieX\PolygonDrawable\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_34c678614b562bfb75f3a6544a573bc32e09e1cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\coldpuppy\DoggieX\PolygonDrawable\app\build\intermediates\exploded-aar\PolygonDrawable\polygonlib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d49d9ff037793281d31b4ff1d8e9c980366e3bfe">
+        <dex dex="E:\coldpuppy\DoggieX\PolygonDrawable\app\build\intermediates\pre-dexed\debug\PolygonDrawable-polygonlib-unspecified_5c48b1d7e354cfe058e612a9dcd74bd04a5b0afe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\coldpuppy\DoggieX\PolygonDrawable\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\coldpuppy\DoggieX\PolygonDrawable\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_5310997edccc255f58cf237c4769d4450d44a0b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\coldpuppy\DoggieX\PolygonDrawable\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\coldpuppy\DoggieX\PolygonDrawable\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_cc15a7aae0ff4dcdbfaeb93d9d1d01025173d180.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\coldpuppy\DoggieX\PolygonDrawable\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\coldpuppy\DoggieX\PolygonDrawable\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_0636a7f86c027a77b12ec5cd277052e31df0f2b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\coldpuppy\DoggieX\PolygonDrawable\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\coldpuppy\DoggieX\PolygonDrawable\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e06e5cf5dd6bbd144990103f795c284182ad7a5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\coldpuppy\DoggieX\PolygonDrawable\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\coldpuppy\DoggieX\PolygonDrawable\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_048bfcff5c08f5d224861d96e1e46228cf9a2000.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\coldpuppy\DoggieX\PolygonDrawable\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\coldpuppy\DoggieX\PolygonDrawable\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_cb8915368600524590f331cda2e55964d6e546b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\coldpuppy\DoggieX\PolygonDrawable\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\coldpuppy\DoggieX\PolygonDrawable\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_3c6c9591334a4eb326492455581f05ade6b33c43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sdk\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\coldpuppy\DoggieX\PolygonDrawable\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_8424782ab24ebffd9f13e96bada9035422cd48bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\coldpuppy\DoggieX\PolygonDrawable\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\coldpuppy\DoggieX\PolygonDrawable\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_537b828281343ff1edc31a5ef8001d4efbd25eff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\coldpuppy\DoggieX\PolygonDrawable\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\coldpuppy\DoggieX\PolygonDrawable\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_461c21f4b5c8cd16a38987d77743215fe140284e.jar" />
+    </item>
+
+</items>
